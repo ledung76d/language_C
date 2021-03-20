@@ -1,0 +1,3 @@
+Write the command cp by your self
+to copy a text file to another
+mycp a1.txt a2.txtÿ

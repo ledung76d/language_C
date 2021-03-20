@@ -1,0 +1,1 @@
+strrev(word2);

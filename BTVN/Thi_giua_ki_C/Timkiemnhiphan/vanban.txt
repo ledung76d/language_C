@@ -1,0 +1,4 @@
+dung   2019   9.5
+vuong   2018   10
+viet   2020   9
+vietanh   2017   9

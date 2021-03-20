@@ -1,0 +1,1 @@
+ temp=push(temp,value)

@@ -1,0 +1,17 @@
+5
+SP1
+My tom trung
+15000
+SP2
+Cocacola
+8000
+SP3
+Tra da
+3000
+SP4
+Nuoc mia
+10000
+SP5
+Banh my trung
+15000
+

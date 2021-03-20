@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1608910079 source:c:\users\admin\desktop\vuong\queue\main.c
+	<stdio.h>
+	<stdlib.h>
+	"queue.h"
+
+1608909860 c:\users\admin\desktop\vuong\queue\queue.h
+
+1608910014 source:c:\users\admin\desktop\vuong\queue\queue.c
+	"queue.h"
+
